@@ -3,7 +3,7 @@
         "apps": [],
         "details": [{
             "appID": "3S4BY8N7KH.ru.spacemedia.bw-dev",
-            "paths": ["NOT /sport/*"]
+            "paths": ["/dynamic/*", "NOT /sport/*"]
         }]
     }
 }
